@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscManageMaster", "DiscManageMaster\DiscManageMaster.csproj", "{7CA150D7-0205-49D1-8C84-E36E7FBD85B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscManageMaster.Core", "DiscManageMaster.Core\DiscManageMaster.Core.csproj", "{6E5B27CA-EAAD-4C6B-A075-71B369EAFA16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscManageMaster.Controls", "DiscManageMaster.Controls\DiscManageMaster.Controls.csproj", "{05E9AD33-F0C1-411F-B22D-40208B6E4D6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscManageMaster.Plugins.ZIP", "DiscManageMaster.Plugins.ZIP\DiscManageMaster.Plugins.ZIP.csproj", "{8B6712D8-DD53-4EBB-B92C-40F539245E7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscManageMaster.Plugins.RAR", "DiscManageMaster.Plugins.RAR\DiscManageMaster.Plugins.RAR.csproj", "{A5A49B6B-E5D9-4868-9DA5-E2175EF25A09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscManageMaster.Plugins.TXT", "DiscManageMaster.Plugins.TXT\DiscManageMaster.Plugins.TXT.csproj", "{78EF80F6-7F53-47C2-8813-5787E6D6A7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CA150D7-0205-49D1-8C84-E36E7FBD85B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA150D7-0205-49D1-8C84-E36E7FBD85B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA150D7-0205-49D1-8C84-E36E7FBD85B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA150D7-0205-49D1-8C84-E36E7FBD85B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E5B27CA-EAAD-4C6B-A075-71B369EAFA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E5B27CA-EAAD-4C6B-A075-71B369EAFA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E5B27CA-EAAD-4C6B-A075-71B369EAFA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E5B27CA-EAAD-4C6B-A075-71B369EAFA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E9AD33-F0C1-411F-B22D-40208B6E4D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E9AD33-F0C1-411F-B22D-40208B6E4D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E9AD33-F0C1-411F-B22D-40208B6E4D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E9AD33-F0C1-411F-B22D-40208B6E4D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6712D8-DD53-4EBB-B92C-40F539245E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6712D8-DD53-4EBB-B92C-40F539245E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6712D8-DD53-4EBB-B92C-40F539245E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6712D8-DD53-4EBB-B92C-40F539245E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A49B6B-E5D9-4868-9DA5-E2175EF25A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A49B6B-E5D9-4868-9DA5-E2175EF25A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A49B6B-E5D9-4868-9DA5-E2175EF25A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A49B6B-E5D9-4868-9DA5-E2175EF25A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78EF80F6-7F53-47C2-8813-5787E6D6A7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EF80F6-7F53-47C2-8813-5787E6D6A7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EF80F6-7F53-47C2-8813-5787E6D6A7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EF80F6-7F53-47C2-8813-5787E6D6A7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
